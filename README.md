@@ -1,4 +1,6 @@
-<pre>惠志成 (Zhicheng Hui)
+<pre>English | <a href="https://zhichenghui.github.io/zh/" lang="zh" hreflang="zh">中文</a>
+
+惠志成 (Zhicheng Hui)
 
 
 I am a PhD student at the <a href="https://www.ed.ac.uk/">University of Edinburgh</a>, supervised by <a href="https://wenda302.github.io/">Prof. Wenda Li</a> and <a href="https://luomai.github.io/">Prof. Luo Mai</a>. My research focuses on machine learning for theorem proving.
@@ -26,5 +28,5 @@ Contact:
   Email: Z.Hui-4 [at] sms [dot] ed [dot] ac [dot] uk
   GitHub: <a href="https://github.com/ZhichengHui">https://github.com/ZhichengHui</a>
 
-Last updated: 2026-09-15
+Last updated: 2026-11-08
 </pre>
